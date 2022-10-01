@@ -1,0 +1,5 @@
+const verbs =[
+    'horny',
+    'close'
+]
+
