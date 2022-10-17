@@ -1,3 +1,7 @@
+body{
+  background-image: url('./Img/background.jpg');
+}
+
 #next {
   text-align: center;
   margin-top: 20%;
@@ -25,7 +29,7 @@
     background-color: #b33030;
     border-color: #b33030;
     color: #fff;
-  }
+  } 
 
   #next {
     margin-top: 8rem;
